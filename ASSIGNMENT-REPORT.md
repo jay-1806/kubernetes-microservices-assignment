@@ -154,7 +154,7 @@ Successfully:
 
 ## GitHub Repository
 
-Repository Link: [To be added]
+Repository Link: https://github.com/jay-1806/kubernetes-microservices-assignment
 
 Contains:
 - All source code files
